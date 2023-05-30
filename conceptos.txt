@@ -3,9 +3,9 @@ La clase describe los objetos del mismo tipo
 Objeto
 Un objeto es algo de lo que hablamos y que podemos manipular0
 Metodo
-Son las acciones que puede llegar a realizar el objeto
+Son las acciones que puede llegar a realizar la clase
 Atributo
-Son las cualidades del objeto
+Son las cualidades del objeto. Son las caracteristicas que da la clase
 Setter
 Se lo utiliza para ingresar ingresar informacion en el metodo
 Getter
