@@ -1,0 +1,18 @@
+Clase
+La clase describe los objetos
+Objeto
+Un objeto es algo de lo que hablamos y que podemos manipular0
+Metodo
+Son las acciones que puede llegar a realizar el objeto
+Atributo
+Son las cualidades del objeto
+Setter
+Se lo utiliza para ingresar ingresar informacion en el metodo
+Getter
+Se lo usa para obtener informacion del metodo
+Puntero 
+Es un cambio por return y nos ayuda a optimizar el uso de memoria
+Constructor
+Se lo emplea al añadir los atributos del objeto, creando de forma automatica los setter y getters
+GitHub
+Es un repositorio en donde se puede crear, editar y tener un respaldo de algun codigo
